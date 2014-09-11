@@ -1,0 +1,19 @@
+<grammar version="1.0" xml:lang="fr-FR" mode="voice" root="ruleFlowerPower" xmlns="http://www.w3.org/2001/06/grammar" tag-format="semantics/1.0">
+  <rule id="ruleFlowerPower" scope="public">
+    <example>Sarah quel est le statut de ma plante ?</example>
+    <tag>out.action=new Object(); </tag>
+    <item>Sarah</item>
+    <one-of>
+      <item>chaick la tempairature<tag>out.action.jawboneup = "temperature";</tag></item>
+	  <item>chaick le niveau d'humiditai<tag>out.action.jawboneup = "moisture";</tag></item>
+      <item>chaick le niveau de lumiaire<tag>out.action.jawboneup = "light";</tag></item>
+	  <item>chaick le niveau d'engrais<tag>out.action.jawboneup = "fertilizer";</tag></item>
+      <item>chaick le niveau de batterie<tag>out.action.jawboneup = "battery";</tag></item>
+      <item>peux tu me faire un rapport global<tag>out.action.jawboneup = "general";</tag></item>
+	  <item>quand a aitai fait la derniaire synchro<tag>out.action.jawboneup = "lastCheck";</tag></item>
+	  <item>quand a aitai fait la derniaire synchronisation<tag>out.action.jawboneup = "lastCheck";</tag></item>
+    </one-of>
+	<item>du flaueur paueur</item>
+    <tag>out.action._attributes.uri="http://127.0.0.1:8080/sarah/flowerpower";</tag>
+  </rule>
+</grammar>

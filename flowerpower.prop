@@ -1,0 +1,12 @@
+{
+  "modules" : { 
+    "flowerpower"  : {
+      "description": "Sarah donne les info du Flower Power de Parrot",
+      "version"    : "1.0",
+      "username"    : "",
+      "password" : "",
+	  "client_id" : "",
+	  "client_secret" : ""
+    }
+  }
+}
