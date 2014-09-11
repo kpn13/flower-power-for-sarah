@@ -22,11 +22,11 @@ Instructions
 
 Actuellement, le plugin permet de lire uniquement les donn&eacute;es de la derni&egrave;re synchronisation (et d'un seul Flower Power).  
 
-SARAH check la température du flower power
-SARAH check le niveau de lumière du flower power
-SARAH check le niveau d'humidité du flower power
-SARAH check le niveau d'engrais du flower power
-SARAH check le niveau de batterie du flower power
-SARAH peux tu me faire un rapport global du flower power
-SARAH quand a été fait la dernière synchro du flower power
-SARAH quand a été fait la dernière synchronisation du flower power
+SARAH check la tempÃ©rature du flower power  
+SARAH check le niveau de lumiÃ¨re du flower power  
+SARAH check le niveau d'humiditÃ© du flower power  
+SARAH check le niveau d'engrais du flower power  
+SARAH check le niveau de batterie du flower power  
+SARAH peux tu me faire un rapport global du flower power  
+SARAH quand a Ã©tÃ© fait la derniÃ¨re synchro du flower power  
+SARAH quand a Ã©tÃ© fait la derniÃ¨re synchronisation du flower power  
