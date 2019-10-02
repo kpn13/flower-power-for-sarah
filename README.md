@@ -30,3 +30,7 @@ SARAH check le niveau de batterie du flower power
 SARAH peux tu me faire un rapport global du flower power  
 SARAH quand a été fait la dernière synchro du flower power  
 SARAH quand a été fait la dernière synchronisation du flower power  
+
+[UPDATE]
+
+Ce projet n'est plus activement maintenu.
